@@ -1,0 +1,1 @@
+console.log("INFO: work-exp-by-ruben/javascript/index.js initialized")
